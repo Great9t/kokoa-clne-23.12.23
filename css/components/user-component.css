@@ -42,6 +42,7 @@
 }
 
 .user-component__column:last-child {
+<<<<<<< HEAD
     color: rgba(0, 0, 0, 0.4);
     display: flex;
     flex-direction: column;
@@ -52,3 +53,7 @@
     margin-bottom: 10px;
     display: block;
 }
+=======
+    color: rgba(0, 0, 0, 0.5);
+}
+>>>>>>> f22163037563c515b639a40404d7e2e092d22e76

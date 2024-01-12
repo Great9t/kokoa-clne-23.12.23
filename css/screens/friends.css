@@ -5,7 +5,10 @@
     padding: 15px 0px;
     font-size: 18px;
     margin-bottom: 15px;
+<<<<<<< HEAD
     margin-top: -15px;
+=======
+>>>>>>> f22163037563c515b639a40404d7e2e092d22e76
 }
 
 #friends-display-link i {
@@ -18,7 +21,11 @@
 
 .friends-screen__channel {
     margin-top: 25px;
+<<<<<<< HEAD
     border-top: var(--main-border);
+=======
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+>>>>>>> f22163037563c515b639a40404d7e2e092d22e76
     padding-top: 15px;
 }
 
@@ -27,4 +34,8 @@
     display: flex;
     justify-content: space-between;
     color: rgba(0, 0, 0, 0.5);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f22163037563c515b639a40404d7e2e092d22e76
